@@ -8,7 +8,7 @@
 ![Banner](https://user-images.githubusercontent.com/yourusername/yourbanner.gif)
 
 [![GitHub followers](https://img.shields.io/github/followers/chandan25sharma?style=social)](https://github.com/chandan25sharma)
-(https://github.com/chandan25sharma)
+[](https://github.com/chandan25sharma)
 [![Profile Views](https://komarev.com/ghpvc/?username=chandan25sharma&color=blueviolet&style=flat-square)]()
 [![GitHub Streak](https://streak-stats.demolab.com?user=chandan25sharma&theme=tokyonight)]()
 
