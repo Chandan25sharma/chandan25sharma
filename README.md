@@ -23,7 +23,7 @@ I'm a developer passionate about building tools and solving real-world problems.
 - 🔭 Currently working on AI-powered tools and automation
 - 🌱 Exploring Rust, Swift, modern web technologies, and cybersecurity
 - 💡 Interested in productivity tools, fintech, and open-source contributions
-- 📍 Based in Ad Dammam, Saudi Arabia
+- 📍 Based in Kathmandu, NEPAL
 
 ---
 
