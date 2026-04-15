@@ -105,24 +105,26 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandan25sharma&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=chandan25sharma&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<!-- This requires a GitHub Action setup. See note below. -->
+<!-- After setting up the GitHub Action (see instructions below), this will work -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandan25sharma/chandan25sharma/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandan25sharma/chandan25sharma/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chandan25sharma/chandan25sharma/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/chandan25sharma/chandan25sharma/output/github-contribution-grid-snake.svg">
 </picture>
 
-> **💡 Note:** To enable the snake animation, set up a GitHub Action using [Platane/snk](https://github.com/Platane/snk). Create `.github/workflows/snake.yml` with the required configuration.
+> **💡 Note:** To enable the snake animation, create `.github/workflows/snake.yml` with the configuration provided below. After the action runs once, the animation will appear automatically.
 
 ---
 
