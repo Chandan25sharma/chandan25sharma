@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header (FIXED) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey,+I'm+Chandan+Sharma;Better+late+than+never.;Full-Stack+Developer;AI+%26+Automation+Enthusiast;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey,+I'm+Chandan+Sharma;Better+late+than+never.;AI+%26+Automation+Enthusiast;Open+Source+Contributor" />
 
 <!-- Animated Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontSize=28&fontColor=ffffff&animation=fadeIn" />
@@ -98,13 +98,6 @@
 
 ---
 
-## 🏆 GitHub Trophies (FIXED)
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chandan25sharma&theme=onedark&no-frame=true&margin-w=10&row=1&column=6" />
-</p>
-
----
 
 ## 🐍 Contribution Snake (WORKING VERSION)
 
