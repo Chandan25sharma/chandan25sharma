@@ -1,16 +1,17 @@
 <div align="center">
 
-# 👋 Hi, I'm Chandan Sharma
+# 👋 Hi, I'm Chandan Sharma  
+### 🚀 "Better late than never."
 
-### Better late than never.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontSize=28&fontColor=ffffff" />
 
-<!-- Dynamic banner -->
-![Banner](https://user-images.githubusercontent.com/yourusername/yourbanner.gif)
+---
 
-[![GitHub followers](https://img.shields.io/github/followers/chandan25sharma?style=social)](https://github.com/chandan25sharma)
-[](https://github.com/chandan25sharma)
-[![Profile Views](https://komarev.com/ghpvc/?username=chandan25sharma&color=blueviolet&style=flat-square)]()
-[![GitHub Streak](https://streak-stats.demolab.com?user=chandan25sharma&theme=tokyonight)]()
+<!-- Profile Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=chandan25sharma&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan25sharma&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan25sharma&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -18,52 +19,89 @@
 
 ## 🚀 About Me
 
-I'm a developer passionate about building tools and solving real-world problems. I enjoy exploring new tech, productivity tools, and full-stack development.
+💡 Developer passionate about building real-world solutions with modern tech  
+🤖 Exploring AI, automation, and system design  
+🌐 Full-stack builder & open-source enthusiast  
+🔐 Interested in cybersecurity & performance systems  
+📍 Based in Nepal  
 
-- 🔭 Currently working on AI-powered tools and automation
-- 🌱 Exploring Rust, Swift, modern web technologies, and cybersecurity
-- 💡 Interested in productivity tools, fintech, and open-source contributions
-- 📍 Based in Kathmandu, NEPAL
+---
+
+## 🧠 Currently Working On
+- ⚡ AI-powered automation tools  
+- 🌍 Scalable web platforms (React + Node.js + MongoDB)  
+- 🧩 Real-time systems & APIs  
+- 🧠 Learning Rust + advanced backend architecture  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan25sharma&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+### ⚙️ Tools & Platforms
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 💭 Random Dev Quote
+## 📊 GitHub Insights
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan25sharma&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=chandan25sharma&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 💬 Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+📧 Email: **mchandansharma25@gmil.com**  
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/chandan25sharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+
+</p>
 
 ---
 
 <div align="center">
 
-### 📫 Let's Connect
+### ⭐ If you like my work, consider following me!
 
-Feel free to reach out if you want to collaborate on interesting projects!
-
-📧 Email: [mchandansharma25@gmil.com](mailto:mchandansharma25@gmil.com)  
-![Profile Views](https://komarev.com/ghpvc/?username=chandan25sharma&color=blueviolet&style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 
 </div>
