@@ -105,7 +105,6 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
-> ⚠️ If you want YOUR personal snake (recommended), I can set up the GitHub Action for you.
 
 ---
 
