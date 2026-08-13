@@ -98,13 +98,22 @@
 
 ---
 
-
 ## 🐍 Contribution Snake (WORKING VERSION)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
+---
+
+## 📅 Contribution Calendar (HexGrid)
+
+> This honeycomb‑style calendar shows my contribution activity over time.
+
+<p align="center">
+  <!-- Save the SVG as 'assets/contributions-calendar.svg' and reference it here -->
+  <img src="assets/contributions-calendar.svg" alt="Contribution Calendar" width="100%" />
+</p>
 
 ---
 
