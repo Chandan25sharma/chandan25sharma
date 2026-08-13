@@ -1,137 +1,274 @@
 <div align="center">
 
-<!-- Dynamic Typing Header (FIXED) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey,+I'm+Chandan+Sharma;Better+late+than+never.;AI+%26+Automation+Enthusiast;Open+Source+Contributor" />
+<!-- ===================== HERO ===================== -->
 
-<!-- Animated Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+<img src="https://github.com/chandan25sharma.png" width="150" height="150" style="border-radius:50%;" alt="Chandan Sharma"/>
 
-<!-- Coding GIF Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
+# 👋 Hey, I'm **Chandan Sharma**
 
-<!-- Profile Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=chandan25sharma&label=Profile%20Views&color=blueviolet&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/chandan25sharma?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/chandan25sharma?label=Stars&style=social" />
-</p>
+### Software Developer • AI & Automation Enthusiast • Full-Stack Builder
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+real-world+software+systems;AI+%26+Automation+Enthusiast;Full-Stack+%7C+Cloud+%7C+DevOps;Turning+ideas+into+working+products;Always+learning%2C+always+building." alt="Typing SVG"/>
+
+<br/>
+
+<a href="https://github.com/chandan25sharma">
+  <img src="https://img.shields.io/badge/GitHub-Chandan%20Sharma-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/chandan-sharma-55558b288">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mchandansharma25@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=chandan25sharma&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/chandan25sharma?label=FOLLOWERS&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/chandan25sharma?label=STARS&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🧠 About Me
+
+I'm a **software developer and systems builder** focused on turning business problems into practical, scalable software.
+
+I enjoy working across the stack — from designing interfaces and APIs to databases, cloud infrastructure, automation and AI-powered systems.
+
+```text
+💻 Full-Stack Development
+🤖 AI & Intelligent Automation
+☁️ Cloud & DevOps
+🧩 Enterprise & Business Systems
+📊 Data & Analytics
+⚡ Performance & Scalability
+🔐 Security & System Design
+```
+
+> **My goal:** Build software that solves real problems, not just software that looks good in a demo.
+
+---
+
+# 🚀 What I'm Building
+
+### 🤖 AI & Automation
+
+Building tools that automate repetitive workflows, analyze data and make software systems more intelligent.
+
+### 🌐 Scalable Web Platforms
+
+Designing modern applications using technologies such as:
+
+`Next.js` `React` `Node.js` `MongoDB` `PostgreSQL`
+
+### 📦 Business & Enterprise Systems
+
+Working on systems involving:
+
+* Sales & distribution
+* Field-force management
+* Merchandising
+* Inventory & warehouse workflows
+* ERP integrations
+* Business intelligence
+* Automated reporting
+
+### ☁️ Cloud & Infrastructure
+
+Exploring scalable infrastructure, deployment automation, containerization and cloud architecture.
+
+---
+
+# 🛠️ Technology Stack
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,rust,java,bash" />
+</p>
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" />
+</p>
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python" />
+</p>
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite" />
+</p>
+
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,git,github,linux,nginx" />
+</p>
+
+## 🤖 AI / Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=chandan25sharma&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan25sharma&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=chandan25sharma&theme=tokyonight&hide_border=true&border_radius=10" width="70%"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan25sharma&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chandan25sharma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%"/>
+
+</div>
+
+---
+
+# 🧮 Developer Metrics
+
+<div align="center">
 
 <table>
 <tr>
-<td width="70%">
+<td align="center">
 
-💡 **Developer passionate about building real-world solutions with modern tech**  
-🤖 Exploring **AI, automation, and system design**  
-🌐 **Full-stack builder** & open-source enthusiast  
-🔐 Interested in **cybersecurity & performance systems**  
-📍 Based in **Kathmandu, Nepal**  
-⚡ **Fun fact:** I turn coffee into code ☕
+### 🔥 Contributions
+
+<img src="https://img.shields.io/github/commit-activity/y/chandan25sharma?style=for-the-badge&label=COMMITS"/>
 
 </td>
-<td width="30%">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200" />
+
+<td align="center">
+
+### 📦 Repositories
+
+<img src="https://img.shields.io/badge/Repositories-Growing-36BCF7?style=for-the-badge"/>
+
+</td>
+
+<td align="center">
+
+### ⭐ Open Source
+
+<img src="https://img.shields.io/github/stars/chandan25sharma?style=for-the-badge&label=STARS"/>
+
 </td>
 </tr>
 </table>
 
----
-
-## 🧠 Currently Working On
-
-- ⚡ **AI-powered automation tools**  
-- 🌍 **Scalable web platforms** (React + Node.js + MongoDB)  
-- 🧩 **Real-time systems & APIs**  
-- 🧠 Learning **Rust** + advanced backend architecture  
-- 🔒 Exploring **cybersecurity best practices**
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-</p>
-
-### ⚙️ Tools & Platforms
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Insights
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandan25sharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan25sharma&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=chandan25sharma&theme=tokyonight&hide_border=true" />
-</p>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan25sharma&theme=tokyo-night&hide_border=true" width="95%" />
 </div>
 
 ---
 
-
-## 🐍 Contribution Snake (WORKING VERSION)
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
-
----
-
-## 💬 Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 📫 Connect With Me
+# 🐍 Contribution Snake
 
 <div align="center">
 
-📧 **mchandansharma25@gmail.com**
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 💡 Developer Philosophy
+
+<div align="center">
+
+### Build → Break → Learn → Improve → Repeat
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/chandan25sharma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chandan-sharma-55558b288)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/_______c_h_a_n_d_a_n)
+> **"Better late than never."**
 
 <br/>
 
-### ⭐ If you like my work, consider following me!
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</div>
+
+---
+
+# 🌎 Beyond Code
+
+```text
+♟️ Chess
+⚽ Football
+🏔️ Exploring the outdoors
+🧠 Learning new technologies
+🚀 Building products
+☕ Coffee → Code → Repeat
+```
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/chandan25sharma">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chandan-sharma-55558b288">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:mchandansharma25@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/_______c_h_a_n_d_a_n">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### ⭐ If you find something useful here, consider giving it a star!
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </div>
