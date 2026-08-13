@@ -1,9 +1,25 @@
+
+inside the workflow file **after `runs-on: ubuntu-latest`**.
+
+That ` ``` ` is causing the syntax error on line 21. You should **never put Markdown ``` fences inside `.yml` files**.
+
+### Replace the entire `metrics.yml` with this
+
+**Do not add the ` ```yaml ` or ` ``` ` lines.** Copy only the YAML content:
+
+```yaml
 name: GitHub Metrics
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+      - master
 
 permissions:
   contents: write
@@ -13,11 +29,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate full-year isometric calendar
+      - name: Generate full-year isometric contribution calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.plugin.isocalendar.fullyear.svg
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Kathmandu
