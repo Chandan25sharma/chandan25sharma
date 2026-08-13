@@ -1,29 +1,13 @@
-<!-- 
-  ============================================================
-  🔧 SETUP INSTRUCTIONS (delete this comment after reading)
-  ============================================================
-  1. Go to https://github.com/lowlighter/metrics and click 
-     "Use this template" to create a new repo (e.g., "metrics").
-  2. In that repo, edit `.github/workflows/metrics.yml` to 
-     customize plugins (languages, achievements, activity, etc.).
-  3. After the first workflow run, your metrics SVG will be at:
-     https://raw.githubusercontent.com/YOUR_USERNAME/metrics/main/metrics.svg
-  4. Replace the placeholder link below with your own.
-  5. (Optional) Add a profile picture – you can use your GitHub
-     avatar by default, but I've added a custom banner overlay.
-  ============================================================
--->
-
 <div align="center">
 
 <!-- Dynamic Typing Header (FIXED) -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey,+I'm+Chandan+Sharma;Better+late+than+never.;AI+%26+Automation+Enthusiast;Open+Source+Contributor" />
 
-<!-- Animated Wave Banner with Avatar Overlay -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Chandan%20Sharma&fontSize=30&fontColor=ffffff&animation=fadeIn&desc=Full-stack%20%7C%20AI%20%7C%20Automation&descSize=18&descAlignY=60">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Chandan%20Sharma&fontSize=30&fontColor=ffffff&animation=fadeIn&desc=Full-stack%20%7C%20AI%20%7C%20Automation&descSize=18&descAlignY=60" width="100%" />
-</picture>
+<!-- Animated Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+
+<!-- Coding GIF Banner -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 
 <!-- Profile Badges -->
 <p>
@@ -114,31 +98,13 @@
 
 ---
 
-## 📈 Enhanced Metrics Card (lowlighter/metrics)
-
-<!-- 
-  🔁 Replace the src URL below with your own metrics image.
-  After setting up the metrics repo, the image will be at:
-  https://raw.githubusercontent.com/YOUR_USERNAME/metrics/main/metrics.svg
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chandan25sharma/metrics/main/metrics.svg" alt="Metrics" width="100%" />
-</p>
-
-<!-- Optional: if you want a second metrics view (e.g., activity) -->
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chandan25sharma/metrics/main/metrics.activity.svg" alt="Activity" width="100%" />
-</p>
--->
-
----
 
 ## 🐍 Contribution Snake (WORKING VERSION)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
