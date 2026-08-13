@@ -188,15 +188,7 @@ width="70%"
 
 ---
 
-# 🗓️ Full-Year GitHub Contribution Calendar
 
-<div align="center">
-
-<img
-src="./metrics.plugin.isocalendar.fullyear.svg"
-width="100%"
-alt="Full-year GitHub contribution calendar"
-/>
 
 </div>
 
