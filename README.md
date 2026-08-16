@@ -205,16 +205,6 @@ width="95%"
 
 # Contribution Snake
 
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-width="95%"
-alt="GitHub contribution snake"
-/>
-
-</div>
-
 <br/>
 
 <div align="center">
