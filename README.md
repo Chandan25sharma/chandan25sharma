@@ -20,10 +20,11 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 <table>
 <tr>
+
 <td width="68%">
 
 I'm a **full-stack developer and systems builder** who enjoys turning ideas into practical, scalable software.
@@ -32,14 +33,14 @@ My work spans **AI, automation, web applications, APIs, databases, cloud infrast
 
 ### I enjoy building
 
-*  AI-powered applications and automation
-*  High-performance web applications
-*  Scalable business platforms
-*  Cloud and DevOps infrastructure
-*  APIs and system integrations
-*  Data-driven applications
-*  Secure and reliable systems
-*  Open-source projects
+* AI-powered applications and automation
+* High-performance web applications
+* Scalable business platforms
+* Cloud and DevOps infrastructure
+* APIs and system integrations
+* Data-driven applications
+* Secure and reliable systems
+* Open-source projects
 
 > **Build things that solve real problems. Then make them better.**
 
@@ -54,19 +55,22 @@ My work spans **AI, automation, web applications, APIs, databases, cloud infrast
 <img src="https://skillicons.dev/icons?i=github,git,vscode,docker,linux" />
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## - What I'm Working On
+## What I'm Working On
 
 <table>
 <tr>
 
 <td width="33%" align="center">
 
-###  - AI & Automation
+<img src="https://user-images.githubusercontent.com/74038190/216656963-1e4d4e8e-6d3f-4c40-aef4-3b5e8f4f7c9e.gif" width="90" />
+
+### AI & Automation
 
 Intelligent tools, workflow automation and AI-assisted applications.
 
@@ -74,7 +78,9 @@ Intelligent tools, workflow automation and AI-assisted applications.
 
 <td width="33%" align="center">
 
-###  Full-Stack Systems
+<img src="https://user-images.githubusercontent.com/74038190/216656982-1c9d0b8d-4b5e-4b9e-a8c8-7a8d8a4c3d8d.gif" width="90" />
+
+### Full-Stack Systems
 
 Modern applications with scalable frontend, backend and database architecture.
 
@@ -82,7 +88,9 @@ Modern applications with scalable frontend, backend and database architecture.
 
 <td width="33%" align="center">
 
-###  Cloud & Infrastructure
+<img src="https://user-images.githubusercontent.com/74038190/216656998-6f0b6f6d-0c7a-4a8f-9c52-8e3d7d4e6f72.gif" width="90" />
+
+### Cloud & Infrastructure
 
 Deployment, containers, APIs, automation and production infrastructure.
 
@@ -93,7 +101,7 @@ Deployment, containers, APIs, automation and production infrastructure.
 
 ---
 
-##  Current Focus
+## Current Focus
 
 <p align="center">
 
@@ -105,11 +113,19 @@ Deployment, containers, APIs, automation and production infrastructure.
 
 </p>
 
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="100" />
+
+</div>
+
 ---
 
-# 🛠️ Technology Stack
+# Technology Stack
 
-###  Languages
+### Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -120,7 +136,7 @@ Deployment, containers, APIs, automation and production infrastructure.
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
 </p>
 
-###  Frontend & Backend
+### Frontend & Backend
 
 <p>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -130,7 +146,7 @@ Deployment, containers, APIs, automation and production infrastructure.
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-###  Databases
+### Databases
 
 <p>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -139,7 +155,7 @@ Deployment, containers, APIs, automation and production infrastructure.
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-###  Cloud & DevOps
+### Cloud & DevOps
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -148,7 +164,7 @@ Deployment, containers, APIs, automation and production infrastructure.
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
-### 🔧 Tools
+### Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -157,9 +173,11 @@ Deployment, containers, APIs, automation and production infrastructure.
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 </p>
 
+<br/>
 
+<div align="center">
 
-
+<img src="https://user-images.githubusercontent.com/74038190/216655825-4c7c6b4c-8b9f-4c8e-8a8e-2f8c5f4d6e3f.gif" width="420" />
 
 </div>
 
@@ -172,7 +190,7 @@ Deployment, containers, APIs, automation and production infrastructure.
 
 ---
 
-#  Contribution Activity
+# Contribution Activity
 
 <div align="center">
 
@@ -185,7 +203,7 @@ width="95%"
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <div align="center">
 
@@ -197,9 +215,17 @@ alt="GitHub contribution snake"
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub contribution snake dark"/>
+
+</div>
+
 ---
 
-#  Build • Learn • Improve
+# Build • Learn • Improve
 
 <div align="center">
 
@@ -208,41 +234,33 @@ alt="GitHub contribution snake"
 
 <td align="center" width="25%">
 
-### 
+### BUILD
 
-**BUILD**
-
-Turn ideas into working software.
+**Turn ideas into working software.**
 
 </td>
 
 <td align="center" width="25%">
 
-### 
+### LEARN
 
-**LEARN**
-
-Understand the technology underneath.
+**Understand the technology underneath.**
 
 </td>
 
 <td align="center" width="25%">
 
-### 
+### IMPROVE
 
-**IMPROVE**
-
-Make systems faster, cleaner and better.
+**Make systems faster, cleaner and better.**
 
 </td>
 
 <td align="center" width="25%">
 
-### 
+### SHARE
 
-**SHARE**
-
-Contribute and build in public.
+**Contribute and build in public.**
 
 </td>
 
@@ -251,9 +269,17 @@ Contribute and build in public.
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216656142-2c4e6c3f-6f6a-4b5f-b0c9-2e4f7e8a3c2d.gif" width="300" />
+
+</div>
+
 ---
 
-#  Developer Mindset
+# Developer Mindset
 
 <div align="center">
 
@@ -267,7 +293,7 @@ Contribute and build in public.
 
 ---
 
-#  Connect With Me
+# Connect With Me
 
 <div align="center">
 
@@ -289,7 +315,7 @@ Contribute and build in public.
 
 <br/><br/>
 
-###  If you find something useful here, consider leaving a star.
+### If you find something useful here, consider leaving a star.
 
 </div>
 
