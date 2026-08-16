@@ -157,36 +157,7 @@ Deployment, containers, APIs, automation and production infrastructure.
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 </p>
 
----
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=chandan25sharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
-height="180"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan25sharma&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-height="180"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=chandan25sharma&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7"
-width="70%"
-/>
-
-</div>
-
----
 
 
 
