@@ -32,14 +32,14 @@ My work spans **AI, automation, web applications, APIs, databases, cloud infrast
 
 ### I enjoy building
 
-* 🤖 AI-powered applications and automation
-* ⚡ High-performance web applications
-* 🌐 Scalable business platforms
-* ☁️ Cloud and DevOps infrastructure
-* 🧩 APIs and system integrations
-* 📊 Data-driven applications
-* 🔐 Secure and reliable systems
-* 🌍 Open-source projects
+*  AI-powered applications and automation
+*  High-performance web applications
+*  Scalable business platforms
+*  Cloud and DevOps infrastructure
+*  APIs and system integrations
+*  Data-driven applications
+*  Secure and reliable systems
+*  Open-source projects
 
 > **Build things that solve real problems. Then make them better.**
 
@@ -59,14 +59,14 @@ My work spans **AI, automation, web applications, APIs, databases, cloud infrast
 
 ---
 
-## 🚀 What I'm Working On
+## - What I'm Working On
 
 <table>
 <tr>
 
 <td width="33%" align="center">
 
-### 🤖 AI & Automation
+###  - AI & Automation
 
 Intelligent tools, workflow automation and AI-assisted applications.
 
@@ -74,7 +74,7 @@ Intelligent tools, workflow automation and AI-assisted applications.
 
 <td width="33%" align="center">
 
-### 🌐 Full-Stack Systems
+###  Full-Stack Systems
 
 Modern applications with scalable frontend, backend and database architecture.
 
@@ -82,7 +82,7 @@ Modern applications with scalable frontend, backend and database architecture.
 
 <td width="33%" align="center">
 
-### ☁️ Cloud & Infrastructure
+###  Cloud & Infrastructure
 
 Deployment, containers, APIs, automation and production infrastructure.
 
@@ -93,7 +93,7 @@ Deployment, containers, APIs, automation and production infrastructure.
 
 ---
 
-## 🧠 Current Focus
+##  Current Focus
 
 <p align="center">
 
@@ -109,7 +109,7 @@ Deployment, containers, APIs, automation and production infrastructure.
 
 # 🛠️ Technology Stack
 
-### 👨‍💻 Languages
+###  Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -120,7 +120,7 @@ Deployment, containers, APIs, automation and production infrastructure.
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
 </p>
 
-### 🌐 Frontend & Backend
+###  Frontend & Backend
 
 <p>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -130,7 +130,7 @@ Deployment, containers, APIs, automation and production infrastructure.
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+###  Databases
 
 <p>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -139,7 +139,7 @@ Deployment, containers, APIs, automation and production infrastructure.
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -172,7 +172,7 @@ Deployment, containers, APIs, automation and production infrastructure.
 
 ---
 
-# 📈 Contribution Activity
+#  Contribution Activity
 
 <div align="center">
 
@@ -199,7 +199,7 @@ alt="GitHub contribution snake"
 
 ---
 
-# 🔥 Build • Learn • Improve
+#  Build • Learn • Improve
 
 <div align="center">
 
@@ -208,7 +208,7 @@ alt="GitHub contribution snake"
 
 <td align="center" width="25%">
 
-### 🔨
+### 
 
 **BUILD**
 
@@ -218,7 +218,7 @@ Turn ideas into working software.
 
 <td align="center" width="25%">
 
-### 🧠
+### 
 
 **LEARN**
 
@@ -228,7 +228,7 @@ Understand the technology underneath.
 
 <td align="center" width="25%">
 
-### ⚡
+### 
 
 **IMPROVE**
 
@@ -238,7 +238,7 @@ Make systems faster, cleaner and better.
 
 <td align="center" width="25%">
 
-### 🌍
+### 
 
 **SHARE**
 
@@ -253,7 +253,7 @@ Contribute and build in public.
 
 ---
 
-# 💬 Developer Mindset
+#  Developer Mindset
 
 <div align="center">
 
@@ -267,7 +267,7 @@ Contribute and build in public.
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 <div align="center">
 
@@ -289,7 +289,7 @@ Contribute and build in public.
 
 <br/><br/>
 
-### ⭐ If you find something useful here, consider leaving a star.
+###  If you find something useful here, consider leaving a star.
 
 </div>
 
