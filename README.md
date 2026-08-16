@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=780&lines=Hey%2C+I'm+Chandan+Sharma;Build.+Automate.+Scale.;AI+%26+Automation+Enthusiast;Full-Stack+%7C+Cloud+%7C+Open+Source" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Chandan+Sharma;Build.+Automate.+Scale.;AI+%26+Automation+Enthusiast;Full-Stack+%7C+Cloud+%7C+Systems" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Welcome%20to%20my%20GitHub&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%" />
 
 <br/>
 
@@ -20,71 +20,121 @@
 
 ---
 
-## 👋 About Me
+# ABOUT ME
 
 <table>
 <tr>
-<td width="68%">
 
-I'm a **full-stack developer and systems builder** who enjoys turning ideas into practical, scalable software.
+<td width="65%">
 
-My work spans **AI, automation, web applications, APIs, databases, cloud infrastructure and developer tooling**.
+I'm a **full-stack developer and systems builder** focused on turning ideas into practical, scalable software.
 
-### I enjoy building
+My work spans:
 
-*  AI-powered applications and automation
-*  High-performance web applications
-*  Scalable business platforms
-*  Cloud and DevOps infrastructure
-*  APIs and system integrations
-*  Data-driven applications
-*  Secure and reliable systems
-*  Open-source projects
+* AI-powered applications
+* Automation and integrations
+* Full-stack web systems
+* APIs and distributed services
+* Business platforms
+* Databases and data systems
+* Cloud infrastructure
+* DevOps and deployment
+* Developer tooling
+* Open-source projects
+
+I enjoy working across the entire lifecycle of a system — from architecture and database design to development, deployment, automation and optimization.
 
 > **Build things that solve real problems. Then make them better.**
 
 </td>
 
-<td width="32%" align="center">
+<td width="35%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-7574-4901-90bf-4cd2ce3e1852.gif" width="230" />
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-7574-4901-90bf-4cd2ce3e1852.gif" width="250" />
 
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=github,git,vscode,docker,linux" />
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## - What I'm Working On
+# DEVELOPER TERMINAL
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│  chandan@github:~$ whoami                                  │
+│                                                             │
+│  Chandan Sharma                                             │
+│  Full-Stack Developer • Cloud • AI • Automation             │
+│                                                             │
+│  chandan@github:~$ focus                                    │
+│                                                             │
+│  > AI Engineering                                           │
+│  > Scalable Business Systems                                │
+│  > Automation & Integrations                                │
+│  > Cloud Infrastructure                                     │
+│  > Developer Tools                                          │
+│                                                             │
+│  chandan@github:~$ stack --primary                           │
+│                                                             │
+│  Next.js • React • TypeScript • Python • Node.js            │
+│  MongoDB • PostgreSQL • MySQL • AWS • Docker                │
+│                                                             │
+│  chandan@github:~$ philosophy                               │
+│                                                             │
+│  Build → Learn → Break → Fix → Improve                      │
+│                                                             │
+│  chandan@github:~$ status                                   │
+│                                                             │
+│  SYSTEM STATUS: BUILDING                                    │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# CURRENTLY BUILDING
 
 <table>
 <tr>
 
 <td width="33%" align="center">
 
-###  - AI & Automation
+### AI ENGINEERING
 
-Intelligent tools, workflow automation and AI-assisted applications.
-
-</td>
-
-<td width="33%" align="center">
-
-###  Full-Stack Systems
-
-Modern applications with scalable frontend, backend and database architecture.
+Building AI-assisted applications, intelligent automation, local AI workflows and developer tools.
 
 </td>
 
 <td width="33%" align="center">
 
-###  Cloud & Infrastructure
+### BUSINESS SYSTEMS
 
-Deployment, containers, APIs, automation and production infrastructure.
+Building practical ERP, sales, field operations and data-driven platforms.
+
+</td>
+
+<td width="33%" align="center">
+
+### CLOUD & AUTOMATION
+
+Designing deployment pipelines, integrations, APIs and scalable infrastructure.
 
 </td>
 
@@ -93,23 +143,23 @@ Deployment, containers, APIs, automation and production infrastructure.
 
 ---
 
-##  Current Focus
+# ENGINEERING FOCUS
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/AI%20Engineering-36BCF7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Full--Stack-2c5364?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-203a43?style=for-the-badge" />
-<img src="https://img.shields.io/badge/System%20Architecture-0f2027?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System%20Architecture-203a43?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-0f2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge" />
 
 </p>
 
 ---
 
-# 🛠️ Technology Stack
+# TECHNOLOGY STACK
 
-###  Languages
+## LANGUAGES
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -120,17 +170,26 @@ Deployment, containers, APIs, automation and production infrastructure.
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
 </p>
 
-###  Frontend & Backend
+## FRONTEND
 
 <p>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-###  Databases
+## BACKEND & APIs
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-0f2027?style=for-the-badge"/>
+</p>
+
+## DATABASES
 
 <p>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -139,40 +198,127 @@ Deployment, containers, APIs, automation and production infrastructure.
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-###  Cloud & DevOps
+## CLOUD & DEVOPS
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
 </p>
 
-### 🔧 Tools
+## AI & DEVELOPER TOOLS
 
 <p>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-</p>
-
-
-
-
-
-</div>
-
-<p align="center">
-  <sub>
-    Full-year isometric contribution calendar generated automatically with
-    <a href="https://github.com/lowlighter/metrics">Lowlighter Metrics</a>.
-  </sub>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
 
-#  Contribution Activity
+# HOW I BUILD SYSTEMS
+
+<div align="center">
+
+```text
+                         ┌─────────────────────┐
+                         │       USERS         │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │   WEB / MOBILE UI   │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │      API LAYER      │
+                         └──────────┬──────────┘
+                                    │
+                    ┌───────────────┼───────────────┐
+                    ▼               ▼               ▼
+              ┌──────────┐   ┌───────────┐   ┌───────────┐
+              │ DATABASE │   │ AUTOMATION│   │    AI     │
+              └─────┬────┘   └─────┬─────┘   └─────┬─────┘
+                    │              │               │
+                    └──────────────┼───────────────┘
+                                   ▼
+                         ┌─────────────────────┐
+                         │ CLOUD / INFRASTRUCTURE│
+                         └─────────────────────┘
+```
+
+</div>
+
+---
+
+# ENGINEERING PRINCIPLES
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### BUILD
+
+Turn ideas into working software.
+
+</td>
+
+<td align="center" width="25%">
+
+### LEARN
+
+Understand the technology underneath.
+
+</td>
+
+<td align="center" width="25%">
+
+### IMPROVE
+
+Make systems faster, cleaner and more reliable.
+
+</td>
+
+<td align="center" width="25%">
+
+### SHARE
+
+Build in public and contribute to the community.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# GITHUB ANALYTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chandan25sharma&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan25sharma&layout=compact&theme=github_dark&hide_border=true&langs_count=10" width="41%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=chandan25sharma&theme=github-dark-blue&hide_border=true" width="75%" />
+
+</div>
+
+---
+
+# CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -185,7 +331,7 @@ width="95%"
 
 ---
 
-# 🐍 Contribution Snake
+# CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -199,75 +345,76 @@ alt="GitHub contribution snake"
 
 ---
 
-#  Build • Learn • Improve
+# GITHUB METRICS
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 
-
-**BUILD**
-
-Turn ideas into working software.
-
-</td>
-
-<td align="center" width="25%">
-
-### 
-
-**LEARN**
-
-Understand the technology underneath.
-
-</td>
-
-<td align="center" width="25%">
-
-### 
-
-**IMPROVE**
-
-Make systems faster, cleaner and better.
-
-</td>
-
-<td align="center" width="25%">
-
-### 
-
-**SHARE**
-
-Contribute and build in public.
-
-</td>
-
-</tr>
-</table>
+<img
+src="https://raw.githubusercontent.com/chandan25sharma/chandan25sharma/main/github-metrics.svg"
+width="95%"
+alt="GitHub Metrics"
+/>
 
 </div>
-
----
-
-#  Developer Mindset
-
-<div align="center">
-
-### **Better late than never.**
 
 <br/>
 
-`Learn → Build → Break → Fix → Improve → Repeat`
+<div align="center">
+
+<sub>
+Full-year GitHub activity and contribution analytics generated automatically.
+</sub>
 
 </div>
 
 ---
 
-#  Connect With Me
+# OPEN SOURCE
+
+<div align="center">
+
+I enjoy experimenting with new technologies, building useful tools and sharing projects through GitHub.
+
+<br/>
+
+<img src="https://img.shields.io/badge/BUILD-0f2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EXPERIMENT-203a43?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OPTIMIZE-2c5364?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SHARE-36BCF7?style=for-the-badge&labelColor=111827" />
+
+</div>
+
+---
+
+# DEVELOPER MINDSET
+
+<div align="center">
+
+## Better late than never.
+
+<br/>
+
+```text
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Fix
+  ↓
+Optimize
+  ↓
+Automate
+  ↓
+Repeat
+```
+
+</div>
+
+---
+
+# CONNECT
 
 <div align="center">
 
@@ -289,7 +436,7 @@ Contribute and build in public.
 
 <br/><br/>
 
-###  If you find something useful here, consider leaving a star.
+### If you find something useful here, consider leaving a star.
 
 </div>
 
